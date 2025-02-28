@@ -1,6 +1,6 @@
 [
   {
-    "property": "theme.floating_history.position",
+    "property": "theme.floating_bookmarks.position",
     "label": "Position",
     "type": "dropdown",
     "disabledOn": [],
